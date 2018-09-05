@@ -1,4 +1,5 @@
 ## The R script to extract all extracellular matrix related genes from http://matrixdb.univ-lyon1.fr/
+## Find those genes which have ENSEMBL Human Genome record
 
 rm(list = ls(all=TRUE))
 
